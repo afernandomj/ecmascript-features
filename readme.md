@@ -10,6 +10,6 @@
 
 ## Videos
 
-- [ECMAScript Introduction](videos/introduction.mp4)
-- [Versions](videos/Versions.mp4)
+- [ECMAScript Introduction](https://drive.google.com/file/d/1_XS_nmBNPHDgu9AheHuwySFgB0cgfCCC/view?usp=drive_link)
+- [Versions](https://drive.google.com/file/d/1zNdOZHW5jBdgmf-LQD-EElhZeeYaIzvf/view?usp=drive_link)
 
